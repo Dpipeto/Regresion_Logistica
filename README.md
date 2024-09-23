@@ -1,2 +1,2 @@
 # Regresion_Logistica
-Link Explicacion Codigo: https://youtu.be/HNJ4ZJqMM0o
+Cadi: Machine Learning (Conceptos) script explanation video: https://youtu.be/HNJ4ZJqMM0o
